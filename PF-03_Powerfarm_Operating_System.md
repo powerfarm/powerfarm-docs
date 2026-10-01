@@ -63,7 +63,7 @@ Powerfarm keeps the following boundaries explicit:
 | Boundary | Public meaning |
 |---|---|
 | Authentication | A standards-based identity service can verify a credential and issue a token. |
-| Institutional recognition | The Registry recognizes people, objects, versions, contracts and grants. |
+| Institutional recognition | The Registry recognizes people, objects and contracts; grants and acts are contract kinds, not a fourth institutional category. |
 | Immutable content | A content-addressed store preserves exact bytes by digest. |
 | Semantics | Minivault describes promoted objects, relations, revisions and explanations. |
 | Execution | Continuity materializes an authorized transition and records what happened. |
@@ -552,8 +552,8 @@ The class becomes ready only when temporal and observational predicates converge
 Research creates and learns.
 GitHub explains.
 Content Store preserves and carries immutable values.
-Registry recognizes.
-Identity authorizes.
+Registry recognizes through the applicable contract, including an act contract.
+Identity resolves provider credentials to a principal; Registry contracts authorize.
 Antenna maintains observational evidence.
 Heartime maintains temporal evidence.
 Policy determines semantic triggering.

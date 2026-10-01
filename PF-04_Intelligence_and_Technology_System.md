@@ -137,7 +137,7 @@ Only the digest establishes material identity. Other fields describe the value o
 
 Objects MAY reference other content-addressed objects, allowing immutable manifests and object graphs to represent source trees, datasets, prompts, schemas, evidence sets, execution inputs, capability definitions, and compound artifacts without copying all underlying bytes into every consumer.
 
-Knowing a digest does not itself grant permission to resolve the object. Content identity is not a capability. Identity, contracts, grants, and Registry recognition remain responsible for meaning and authority.
+Knowing a digest does not itself grant permission to resolve the object. Content identity is not a capability. Identity bindings, contracts, grant contracts, and Registry recognition remain responsible for meaning and authority.
 
 ## 1.5 Context is a working set, not a warehouse
 
