@@ -78,6 +78,7 @@ Powerfarm follows three public rules:
 
 - **State is local.** Operational state belongs to the application or service whose contract gives it authority over that state.
 - **Contracts are global.** Institutional relationships, grants, ownership and authority are explicit and discoverable through recognized contracts.
+- **Contracts have time and evidence.** Registration, recognition, validity, obligations, witnesses, uncertainty and consequences remain distinguishable; a projection may summarize them but cannot erase their history.
 - **Everything institutional is rebuildable.** Recognized state can be reconstructed from preserved content, contracts and the ordered record of institutional acts. A provider, interface or storage engine can change without changing the institution when names, contracts and evidence remain intact.
 
 The public representation order remains:
