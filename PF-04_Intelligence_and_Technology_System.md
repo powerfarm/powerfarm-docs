@@ -121,7 +121,7 @@ Powerfarm SHOULD use established workflow and interface standards before inventi
 
 ## 1.4 Immutable content plane
 
-The Content Store described by PF-03 is Powerfarm's immutable content plane.
+The Content Store described by PA-01 is Powerfarm's immutable content plane.
 
 Content-addressed objects MAY be addressed, preserved, transported, composed, cached, resolved remotely, loaded lazily, and independently verified without changing their content identity.
 
@@ -137,7 +137,7 @@ Only the digest establishes material identity. Other fields describe the value o
 
 Objects MAY reference other content-addressed objects, allowing immutable manifests and object graphs to represent source trees, datasets, prompts, schemas, evidence sets, execution inputs, capability definitions, and compound artifacts without copying all underlying bytes into every consumer.
 
-Knowing a digest does not itself grant permission to resolve the object. Content identity is not a capability. Identity bindings, contracts, grant contracts, and Registry recognition remain responsible for meaning and authority.
+Knowing a digest does not itself grant permission to resolve the object. Content identity is not a capability. Identity, contracts, grants, and Registry recognition remain responsible for meaning and authority.
 
 ## 1.5 Context is a working set, not a warehouse
 

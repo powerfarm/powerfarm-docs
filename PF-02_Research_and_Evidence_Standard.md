@@ -12,7 +12,7 @@ How Powerfarm turns technological change into defensible, living knowledge
 
 | **OWNS**         | Research lifecycle, evidence objects, confidence, benchmark rules, verification, uncertainty, freshness, and claim/recommendation discipline. |
 |------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
-| **DOES NOT OWN** | The company mission (PF-01), operating governance (PF-03), implementation architecture (PF-04), or product/commercial policy (PF-05).         |
+| **DOES NOT OWN** | The company mission (PF-01), operating governance (PA-01), implementation architecture (PF-04), or product/commercial policy (PF-05).         |
 
 > **Normative language**
 >

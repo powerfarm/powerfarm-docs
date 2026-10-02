@@ -96,19 +96,11 @@ Powerfarm may eventually create software or data products built on its evidence 
 
 # 9. The canonical system
 
-Powerfarm keeps institutional truth deliberately small. The active canon contains five documents:
+Powerfarm keeps institutional truth deliberately small. The public set contains the Charter, Research and Evidence Standard, Intelligence and Technology System, Products and Business System, and the Standard Documents Catalog.
 
-1.  PF-01 Powerfarm Charter: identity and permanent commitments.
+PF-03 Powerfarm Operating System is maintained privately as the internal architecture document `PA-01_Powerfarm_Internal_Architecture.md`. It is not a public source of institutional truth.
 
-2.  PF-02 Research and Evidence Standard: how Powerfarm learns and makes defensible claims.
-
-3.  PF-03 Powerfarm Operating System: how Powerfarm decides, works, changes, and governs itself.
-
-4.  PF-04 Intelligence and Technology System: the durable technical model for intelligence, software, evidence, and verification.
-
-5.  PF-05 Products and Business System: how knowledge becomes products, customer value, publication, and revenue.
-
-The former PF-06 Standard Documents Catalog is not a sixth source of institutional truth. It is preserved as historical reference. Detailed internal architecture is private PA-01 and does not become a sixth public canon document.
+PF-06 Standard Documents Catalog is not a source of institutional truth. It is the registry of document types and dormant future documents that may be instantiated if operational need appears.
 
 > **One-home rule**
 >

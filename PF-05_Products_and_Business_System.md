@@ -12,7 +12,7 @@ How Powerfarm turns evidence and operational knowledge into public value, paid p
 
 | **OWNS**         | Product doctrine, product classes, public/paid boundary, productization, customer-specific research, commercial independence, and business principles. |
 |------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **DOES NOT OWN** | Research methodology (PF-02), internal operations (PF-03), or technical implementation (PF-04).                                                        |
+| **DOES NOT OWN** | Research methodology (PF-02), internal operations (PA-01), or technical implementation (PF-04).                                                        |
 
 > **Normative language**
 >
@@ -160,7 +160,7 @@ Paid access does not permit lower traceability. Confidentiality may limit what c
 
 # 12. Product roadmap rule
 
-The roadmap follows repeated customer decisions and accumulated Powerfarm advantage, not the existence of an attractive category. Future product ideas belong in working documents or a scoped product brief until evidence and demand justify active development.
+The roadmap follows repeated customer decisions and accumulated Powerfarm advantage, not the existence of an attractive category. Future product ideas belong in working documents or PF-06 until evidence and demand justify active development.
 
 A future Powerfarm Intelligence API is therefore an option, not a promise. It should exist only when the underlying evidence, decision models, query structure, and repeated demand are mature enough to make an API more useful than reports or direct research.
 

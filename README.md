@@ -4,10 +4,10 @@ Public institutional documents for Powerfarm.
 
 ## Documents
 
-- PF-01 — Powerfarm Charter
-- PF-02 — Research and Evidence Standard
-- PF-03 — Powerfarm Operating System
-- PF-04 — Intelligence and Technology System
-- PF-05 — Products and Business System
+- `PF-01_Powerfarm_Charter.md` — identity, purpose and permanent commitments.
+- `PF-02_Research_and_Evidence_Standard.md` — research, evidence, confidence and claims.
+- `PF-04_Intelligence_and_Technology_System.md` — technical doctrine.
+- `PF-05_Products_and_Business_System.md` — products, publication and business.
+- `PF-06_Standard_Documents_Catalog.md` — reusable document types; it is a registry, not a source of institutional truth.
 
-These documents define Powerfarm's public institutional commitments. Internal materialization architecture and implementation specifications live in the private [powerfarm-internal-docs](https://github.com/powerfarm/powerfarm-internal-docs) repository.
+`PF-03` is maintained privately as `PA-01_Powerfarm_Internal_Architecture.md`, together with the implementation specifications. Internal architecture and specifications live in [powerfarm-internal-docs](https://github.com/powerfarm/powerfarm-internal-docs).
